@@ -15,4 +15,12 @@ ___
 
 #### When draging and droping something in frame in Figma, make sure your mouse cursor is in the frame when you release the mouse button
 
+### Prototyping 
+
+#### Animation type - smart animate is best to use when elements are doing multiple changes, moving, resizing, opacity...
+
+#### While playing prototype, press R key to reload/restart the playing of prototype
+
+#### 
+
 #### 
