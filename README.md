@@ -13,10 +13,6 @@ ___
 #### To create a new color style, in color styles panel after 3 dotts, click on + New Style, add a title for that style. 
 ##### If used on multiple elements, color (style) with update on all elements, on change
 
-
-
-#### 
-
-
+#### When draging and droping something in frame in Figma, make sure your mouse cursor is in the frame when you release the mouse button
 
 #### 
