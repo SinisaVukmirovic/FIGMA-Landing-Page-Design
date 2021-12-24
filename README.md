@@ -21,6 +21,7 @@ ___
 
 #### While playing prototype, press R key to reload/restart the playing of prototype
 
-#### 
+#### Form animating color chnge on links hover
+##### Instead of copying the entire frame to change state of single element for animation - copy jsut the elem, frame that elem, create interaction for while hovering - open overlay - manual - desolve
 
 #### 
