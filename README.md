@@ -1,5 +1,8 @@
 ## FIGMA
 ### Figma Landing Page Design
+
+[Prototype link](https://www.figma.com/file/AwbLG595rN6jtJPfnC1gBz/Figma-Landing-Page-Design?node-id=0%3A1 "Figma Landing Page Design")
+
 ___
 
 #### To do a soft line break in Figma, press SHIFT + ENTER
@@ -15,6 +18,8 @@ ___
 
 #### When draging and droping something in frame in Figma, make sure your mouse cursor is in the frame when you release the mouse button
 
+#### If you want to drag perfectly horisontal or vertical hold down SHIFT key while doing it. Also works for 15degrees step when rotating.
+
 ### Prototyping 
 
 #### Animation type - smart animate is best to use when elements are doing multiple changes, moving, resizing, opacity...
@@ -22,6 +27,6 @@ ___
 #### While playing prototype, press R key to reload/restart the playing of prototype
 
 #### Form animating color chnge on links hover
-##### Instead of copying the entire frame to change state of single element for animation - copy jsut the elem, frame that elem, create interaction for while hovering - open overlay - manual - desolve
+##### Instead of copying the entire frame to change state of single element for animation - copy just the elem, frame that elem, create interaction for while hovering - open overlay - manual - desolve
 
 #### 
