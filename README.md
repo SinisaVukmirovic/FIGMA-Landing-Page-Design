@@ -5,7 +5,7 @@
 
 ___
 
-#### To do a soft line break in Figma, press SHIFT + ENTER
+#### To do a "soft line break" in Figma, press SHIFT + ENTER
 
 #### Line height and letter spacing options for text are under font weight option
 
@@ -28,5 +28,3 @@ ___
 
 #### Form animating color chnge on links hover
 ##### Instead of copying the entire frame to change state of single element for animation - copy just the elem, frame that elem, create interaction for while hovering - open overlay - manual - desolve
-
-#### 
