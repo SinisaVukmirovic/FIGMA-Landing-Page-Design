@@ -3,7 +3,7 @@
 
 [Prototype link](https://www.figma.com/file/AwbLG595rN6jtJPfnC1gBz/Figma-Landing-Page-Design?node-id=0%3A1 "Figma Landing Page Design")
 
-___
+![Image](https://github.com/SinisaVukmirovic/FIGMA-Landing-Page-Design/blob/main/preview.jpg)
 
 #### To do a "soft line break" in Figma, press SHIFT + ENTER
 
